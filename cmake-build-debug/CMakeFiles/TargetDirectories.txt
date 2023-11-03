@@ -1,0 +1,3 @@
+C:/Users/ACER/CLionProjects/untitled2/ColecciondeEjerciciosExcepciones/cmake-build-debug/CMakeFiles/ColecciondeEjerciciosExcepciones.dir
+C:/Users/ACER/CLionProjects/untitled2/ColecciondeEjerciciosExcepciones/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ACER/CLionProjects/untitled2/ColecciondeEjerciciosExcepciones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
