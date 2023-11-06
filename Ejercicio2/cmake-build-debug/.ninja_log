@@ -1,0 +1,6 @@
+# ninja log v5
+6	463	7205398972251561	build.ninja	65395a8c8244fa50
+1	915	7205398981912890	CMakeFiles/Ejercicio2.dir/main.cpp.obj	e3acedf9460f7d7e
+917	1185	7205398984573147	Ejercicio2.exe	5046c414b7d292aa
+3	695	7210045706853769	CMakeFiles/Ejercicio2.dir/main.cpp.obj	e3acedf9460f7d7e
+695	906	7210045708900388	Ejercicio2.exe	5046c414b7d292aa
